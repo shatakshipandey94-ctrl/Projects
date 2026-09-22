@@ -33,7 +33,7 @@ The goal of this project was to:
 
 ## 🔗 Live Demo
 You can view the webpage here:  
-<a href="http://127.0.0.1/CSS/design/ui1/index.html" target="_blank">Open My Design Page</a>
+https://shatakshipandey94-ctrl.github.io/Projects/ 
 
 
 ---
